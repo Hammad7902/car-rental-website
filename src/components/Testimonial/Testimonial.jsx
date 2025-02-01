@@ -2,21 +2,21 @@ import React from "react";
 
 const testimonialData = [
   {
-    name: "Dilshad",
+    name: "Muhammad osama",
     image: "",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "This was one of the best experiences. I had problems at the airport and the driver stayed I would recommend this company to anyone. Thank you for such fabulous service!",
     aosDelay: "0",
   },
   {
-    name: "Satya",
+    name: "Hammad",
     image: "",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "Ich möchte mich für den super Service Ihrer Fahrer/in bedanken. Das war Klasse, sehr flexibel und absolut empfehlenswert!",
     aosDelay: "300",
   },
   {
-    name: "Sabir",
+    name: "faizan",
     image: "",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "We were very pleased with the service and would happily use it again when we are next in Karachi",
     aosDelay: "1000",
   },
 ];
@@ -35,8 +35,7 @@ const Testimonial = () => {
               What Our Clients Say About Us
             </p>
             <p data-aos="fade-up" className="text-center sm:px-44">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Perferendis iure consectetur tempora amet.
+              Our clients rave about our top-notch service, affordable rates, and seamless car rental experience.
             </p>
           </div>
 

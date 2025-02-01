@@ -22,12 +22,10 @@ const About = () => {
                 About us
               </h1>
               <p data-aos="fade-up" className="leading-8 tracking-wide">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Aspernatur, magnam! Tenetur odio quo et maxime?
+              We provide reliable and affordable car rental services, ensuring a smooth and convenient experience for every journey.
               </p>
               <p data-aos="fade-up">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi,
-                tempora.
+              Explore with confidence and drive the best vehicles at the best rates
               </p>
               <button data-aos="fade-up" className="button-outline">
                 Get Started

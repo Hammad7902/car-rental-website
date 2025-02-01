@@ -27,8 +27,7 @@ const AppStoreBanner = () => {
               Get Started with our app
             </h1>
             <p data-aos="fade-up" className="text-center sm:px-20">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
-              magnam harum accusantium odit?
+              "Download our app and sign up in just a few clicks! Enjoy seamless navigation, secure transactions,Get started today and experience convenience like never before!"
             </p>
             <div
               data-aos="fade-up"

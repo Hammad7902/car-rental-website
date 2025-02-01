@@ -33,20 +33,19 @@ const Footer = () => {
           {/* company Details */}
           <div className=" py-8 px-4 ">
             <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-3 font-serif">
-              Car Rental
+              Taxilo
             </h1>
             <p className="text-sm">
-              Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor sit amet
-              consectetur adipisicing elit. Possimus, voluptate.{" "}
+              Find the perfect ride for any occasion with our reliable Taxilo. Enjoy affordable rates, top-quality vehicles, and hassle-free booking. Whether for business or leisure, we ave got you covered. Drive with comfort and confidence today{" "}
             </p>
             <br />
             <div className="flex items-center gap-3">
               <FaLocationArrow />
-              <p>Noida, Uttar Pradesh</p>
+              <p>Karachi, Pakistan</p>
             </div>
             <div className="flex items-center gap-3 mt-3">
               <FaMobileAlt />
-              <p>+91 123456789</p>
+              <p>+92 123456789</p>
             </div>
             {/* Social Handle */}
             <div className="flex items-center gap-3 mt-6">

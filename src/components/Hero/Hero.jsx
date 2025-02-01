@@ -32,11 +32,10 @@ const Hero = ({ theme }) => {
               data-aos-delay="600"
               className="text-5xl lg:text-7xl font-semibold font-serif"
             >
-              Car Rental
+              Taxilo
             </h1>
             <p data-aos="fade-up" data-aos-delay="1000">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
-              veritatis explicabo quibusdam quae reprehenderit ab{" "}
+            Effortless Taxilo makes car rentals simple and hassle-free. Choose from a wide range of vehicles at affordable rates. Book instantly, ride comfortably, and enjoy seamless service. Your perfect journey starts with Taxilo!{" "}
             </p>
             <button
               data-aos="fade-up"

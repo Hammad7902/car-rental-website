@@ -10,7 +10,7 @@ const skillsData = [
       <FaCameraRetro className="text-5xl text-primary group-hover:text-black duration-300" />
     ),
     link: "#",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "Enjoy the best prices on Taxilo, with no hidden fees or surprises. Get more value for your money and drive away with confidence!",
     aosDelay: "0",
   },
   {
@@ -19,7 +19,7 @@ const skillsData = [
       <GiNotebook className="text-5xl text-primary group-hover:text-black duration-300" />
     ),
     link: "#",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "A fast and secure Taxilo ensures quick bookings with seamless navigation. Robust security measures protect user data and enable safe transactions.",
     aosDelay: "500",
   },
   {
@@ -28,7 +28,7 @@ const skillsData = [
       <SlNote className="text-5xl text-primary group-hover:text-black duration-500" />
     ),
     link: "#",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "A seamless Taxilo experience is driven by easy booking, transparent pricing, and quick pickups. Personalized recommendations and reliable customer support enhance user satisfaction.",
     aosDelay: "1000",
   },
 ];
