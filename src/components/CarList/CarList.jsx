@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import whiteCar from "../../assets/white-car.png";
 import car2 from "../../assets/car5.png";
 import car3 from "../../assets/car6.png";
@@ -26,6 +27,8 @@ const carList = [
 
 const CarList = () => {
   return (
+    <>
+    <span id="carList"></span>
     <div className="pb-24">
       <div className="container">
         <div>
@@ -59,12 +62,15 @@ const CarList = () => {
         </div>
         {/* End of car listing */}
         <div className="grid place-items-center mt-8">
+        <Link to="/booking">
           <button data-aos="fade-up" className="button-outline">
             Book Now
           </button>
+          </Link>
         </div>
       </div>
     </div>
+    </>
   );
 };
 
